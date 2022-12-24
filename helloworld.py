@@ -1,2 +1,2 @@
 
-print("Hello Welecome to the show")
+print("Hello Welcome to the show")
